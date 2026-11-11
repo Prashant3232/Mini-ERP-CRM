@@ -2,8 +2,6 @@
 
 A small internal ERP/CRM system for a wholesale/distribution company, covering customers, products/inventory, and sales challans with role-based access for Admin, Sales, Warehouse, and Accounts teams.
 
-Built for the Full Stack Developer Case Study assignment.
-
 ---
 
 ## Tech Stack
